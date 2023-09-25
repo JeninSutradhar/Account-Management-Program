@@ -12,7 +12,7 @@ This is a simple banking system program written in C++.
 
 Follow the on-screen instructions to interact with the banking system. You can add accounts, deposit, and withdraw funds, and view transaction history.
 
-------------------Example-----------------
+
 Bank bank;
 
 Account account1("John Doe", 12345, 1000.0);
@@ -26,7 +26,7 @@ bank.withdraw(12345, 200.0);
 bank.withdraw(12345, 1500.0);
 
 bank.displayTransactions();
-------------------------------------------------------------------
+
 ## Compilation
 
 You can compile the program using g++:
