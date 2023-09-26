@@ -1,4 +1,4 @@
-# Account-Management-Program
+# Account Management Program
 This is a simple banking system program written in C++.
 
 
@@ -9,7 +9,7 @@ This is a simple banking system program written in C++.
 3. Run the executable.
 4. Follow on-screen instructions to interact with the banking system.
 
-
+#Uwage
 Follow the on-screen instructions to interact with the banking system. You can add accounts, deposit, and withdraw funds, and view transaction history.
 
 
